@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "scripts": {
-    "preinstall": "bower i && pulp build"
+    "preinstall": "spago build"
   },
   "author": "",
   "license": "MIT",
